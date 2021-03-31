@@ -1,6 +1,6 @@
 ---
 name: Pull Request Template
-about: Describe this issue template's purpose here.
+about: Pull Request Template
 title: ''
 labels: ''
 assignees: ''
@@ -30,4 +30,5 @@ OS: [e.g. iOS8.1]
 Browser [e.g. stock browser, safari]
 Version [e.g. 22]
 Additional context Add any other context about the problem here.
+
 
